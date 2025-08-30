@@ -1,0 +1,14 @@
+# Simple Calculator in Java
+
+This is a basic command-line calculator written in Java, created to practice fundamental programming concepts such as variables, conditionals, loops, and user input handling.
+
+## 🧮 Features
+
+- Accepts two numbers from the user
+- Supports the four basic operations:
+  ➕ Addition
+  ➖ Subtraction
+  ✖️ Multiplication
+  ➗ Division (with division-by-zero protection)
+- Allows the user to perform multiple calculations in a loop
+- Simple and beginner-friendly structure
